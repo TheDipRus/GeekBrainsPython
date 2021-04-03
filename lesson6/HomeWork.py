@@ -27,7 +27,11 @@ class TrafficLight:
             print(self.__color.get('Зеленый'))
             time.sleep(7)
 
+# Раскоментировать для запуска !
+# if __name__ == '__main__':
+#     t1 = TrafficLight()
+#     t1.running()
 
-if __name__ == '__main__':
-    t1 = TrafficLight()
-    t1.running()
+
+
+
