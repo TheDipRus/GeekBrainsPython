@@ -99,11 +99,7 @@ def farm():
         firms[1]["average_profit"] = profit
     return json.dumps(firms)
 
+print(farm())
 
 # print(json.loads(farm()))
 
-def priq():
-    print("test")
-
-
-priq()
