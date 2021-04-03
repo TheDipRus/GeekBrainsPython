@@ -34,3 +34,16 @@ def maths(a,b):
 
             def maths(a, b):
                 print(a + b)
+
+
+maths(3, 7)
+fn('Test git')
+
+maths(3, 7)
+fn('Test git')
+
+maths(3, 7)
+fn('Test git')
+
+maths(3, 7)
+fn('Test git')
